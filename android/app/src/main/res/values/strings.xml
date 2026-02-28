@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CivicAI</string>
+    <string name="title_activity_main">CivicAI</string>
+    <string name="package_name">com.civicai.app</string>
+    <string name="custom_url_scheme">com.civicai.app</string>
+</resources>

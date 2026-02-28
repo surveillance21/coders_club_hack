@@ -1,0 +1,3 @@
+﻿src/app/admin/page.tsx(13,22): error TS2307: Cannot find module '@/data/polygons/zone1.json' or its corresponding type declarations.
+src/app/admin/page.tsx(14,22): error TS2307: Cannot find module '@/data/polygons/zone2.json' or its corresponding type declarations.
+src/app/admin/page.tsx(15,22): error TS2307: Cannot find module '@/data/polygons/zone3.json' or its corresponding type declarations.
